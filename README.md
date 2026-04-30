@@ -12,7 +12,7 @@ OpenCode Gaslight is a TUI plugin that lets you edit assistant responses and thi
 ## Install
 
 ```bash
-opencode plugin opencode-gaslight
+opencode plugin opencode-gaslight -g
 ```
 
 This installs the package globally and updates your `tui.json` automatically.
