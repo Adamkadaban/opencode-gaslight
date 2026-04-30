@@ -38,6 +38,9 @@
     "url": "https://github.com/Adamkadaban/opencode-gaslight/issues"
   },
   "homepage": "https://github.com/Adamkadaban/opencode-gaslight#readme",
+  "engines": {
+    "opencode": ">=1.14.22"
+  },
   "dependencies": {
     "@opencode-ai/plugin": "latest",
     "@opentui/core": "latest",
