@@ -1,6 +1,7 @@
 # opencode-gaslight
 
 [![npm version](https://img.shields.io/npm/v/opencode-gaslight.svg)](https://www.npmjs.com/package/opencode-gaslight)
+[![npm downloads](https://img.shields.io/npm/dm/opencode-gaslight.svg)](https://www.npmjs.com/package/opencode-gaslight)
 [![license](https://img.shields.io/npm/l/opencode-gaslight.svg)](./LICENSE)
 
 
